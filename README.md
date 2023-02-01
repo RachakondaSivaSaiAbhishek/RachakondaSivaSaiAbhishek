@@ -64,7 +64,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 
 
 <a  href="https://www.linkedin.com/in/rachakonda-siva-sai-abhishek-439045208/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/ab_hishek0711/" target="_blank"><img src="https://static.businessworld.in/article/article_extra_large_image/1563875679_nwjMJ0_instagram_logo_470.jpg"/></a>
+<!-- <a href="https://www.instagram.com/ab_hishek0711/" target="_blank"><img src="https://static.businessworld.in/article/article_extra_large_image/1563875679_nwjMJ0_instagram_logo_470.jpg"/></a> -->
 <a href="sivasai7507@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 
