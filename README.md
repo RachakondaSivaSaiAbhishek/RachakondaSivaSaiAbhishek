@@ -6,19 +6,19 @@
 <h1 align="center" >Hi, I'm <a href="https://https://www.linkedin.com/in/madhav-reddy-telukutla-6a3915244/" target="_blank">RACHAKONDA SIVA SAI ABHISHEK </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="code.gif" >
 
 A Small Introduction of  Myself, I am <b>RACHAKONDA SIVA SAI ABHISHEK</b> pursuing <br> <b>ARTIFICIAL INTELLIGENCE AND DATA SCIENCE</b> from VIGNAN'S INSTITUTE OF INFORMATION TECHNOLOGY, Currently in my Third-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence, Data Science and Data Structures </b>. ⚡
-- 👀 I’m interested in ... Problem solving , Analysing the data <br>
-- 💞️ I’m looking to collaborate on challenging machine learning projects but Sorry I'm very busy this time with my academics 😭🙃<br>
+- 👀 I’m interested in ... Problem solving , Analysing the data and exploring new technologies <br>
+- 💞️ I’m looking to collaborate on challenging machine learning projects 🙃<br>
 - 📫 How to reach me sivasai7507@gmail.com
-- A good programmer is someone who always looks both ways before crossing a one-way street 😂😁😁
+- A good programmer is someone who always looks both ways before crossing a one-way street. I mean both developer and as client 😂😁😁
 
-<h3 align="center">A Passionate Frontend-Web Developer | Artifical Intelligence enthusiast | </h3>
+<h3 align="center">A Passionate Django-Web Developer | Artifical Intelligence enthusiast | </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=madhavreddy509&label=Profile%20views&color=6805D3&style=flat" alt="RSSAbhishek" /> </p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
    
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on Projects related to Artifical Intelligence and Data Science,also. Tech: Artifical Intelligence, Bionics, Microsoft Azure, Deep learning, Google cloud, Avionics.
+I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on Projects related to Artifical Intelligence and Data Science,also. Tech: Artifical Intelligence,, Deep learning, Google cloud.
  Known Languages: Python, C, C++, Html, JavaScript, and CSS.
 
 <p align="center"> 
@@ -59,7 +59,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 
 <h1 align="center">Let's Get Connected</h1>
 
- I am active on LinkedIn and mail as well. You can reach out to me ,  It will be my Pleasure to help you.</p>
+ I am active on LinkedIn as well. You can reach out to me ,  It will be my Pleasure to help you.</p>
 
 <div align="center">
 
