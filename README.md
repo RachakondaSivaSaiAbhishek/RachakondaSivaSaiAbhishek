@@ -51,6 +51,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 
 
 <h1 align="center">Projects</h1>
+   <a href="https://github.com/RachakondaSivaSaiAbhishek/RachakondaSivaSaiAbhishek">MY projects</a>
 
 
 
@@ -58,7 +59,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 
 <h1 align="center">Let's Get Connected</h1>
 
- I am active on LinkedIN and Instagram as well. You can reach out to me ,  It will be my Pleasure to help you.</p>
+ I am active on LinkedIn and mail as well. You can reach out to me ,  It will be my Pleasure to help you.</p>
 
 <div align="center">
 
