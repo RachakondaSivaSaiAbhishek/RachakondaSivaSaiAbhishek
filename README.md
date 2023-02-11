@@ -5,7 +5,7 @@
 <!--intRO name  -->
 <h1 align="center" >Hi, I'm <a href="https://https://www.linkedin.com/in/madhav-reddy-telukutla-6a3915244/" target="_blank">RACHAKONDA SIVA SAI ABHISHEK </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1><img width="38%" align="right" src="code.gif" >
 
-A Small Introduction of  Myself, I am <b>RACHAKONDA SIVA SAI ABHISHEK</b> pursuing <br> <b>ARTIFICIAL INTELLIGENCE AND DATA SCIENCE</b> from VIGNAN'S INSTITUTE OF INFORMATION TECHNOLOGY, Currently in my Third-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence, Data Science and Data Structures </b>. ⚡
+⚡⚡A Small Introduction of  Myself, I am <b>RACHAKONDA SIVA SAI ABHISHEK</b> pursuing <br> <b>ARTIFICIAL INTELLIGENCE AND DATA SCIENCE</b> from VIGNAN'S INSTITUTE OF INFORMATION TECHNOLOGY, Currently in my Third-Year of B.Tech. As of now, I am focused on <b>web development, Artifical Intelligence, Data Science and Data Structures </b>. ⚡⚡
 - 👀 I’m interested in ... Problem solving , Analysing the data and exploring new technologies <br>
 - 💞️ I’m looking to collaborate on challenging machine learning projects 🙃<br>
 - 📫 How to reach me sivasai7507@gmail.com
