@@ -13,8 +13,7 @@ A Small Introduction of  Myself, I am <b>RACHAKONDA SIVA SAI ABHISHEK</b> pursui
 
 <h3 align="center">|-A Passionate Django-Web Developer-|-Artifical Intelligence enthusiast-| </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=madhavreddy509&label=Profile%20views&color=6805D3&style=flat" alt="RSSAbhishek" /> </p></h3>
-   <div align="center">
+
 
 <h1>Technical Skills 🛠</h1>
    
@@ -69,7 +68,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 <a href="sivasai7507@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 
-[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachakondaSivaSaiAbhishek&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachakondaSivaSaiAbhishek&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/RachakondaSivaSaiAbhishek/github-readme-stats)
 </div>
 
 <table>
