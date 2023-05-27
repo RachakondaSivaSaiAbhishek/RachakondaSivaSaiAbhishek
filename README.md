@@ -50,7 +50,7 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 
 
 <h1 align="center">Projects</h1>
-   <a href="https://github.com/RachakondaSivaSaiAbhishek/RachakondaSivaSaiAbhishek">MY projects</a>
+   <a href="https://github.com/RachakondaSivaSaiAbhishek/RachakondaSivaSaiAbhishek"></a>
 
 
 
