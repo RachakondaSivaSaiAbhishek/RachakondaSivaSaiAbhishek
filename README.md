@@ -40,23 +40,9 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
     
 </p>
 
- <h1>Started Exploring </h1>
-<p>
-  <img alt="BINANNCE" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" />
-  <img alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-   <img alt="SPark AR" src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white" />
- 
-</p>
-
-
-<h1 align="center">Projects</h1>
-   <a href="https://github.com/RachakondaSivaSaiAbhishek/RachakondaSivaSaiAbhishek"></a>
 
 
 
-
-
-<h1 align="center">Let's Get Connected</h1>
 
  I am active on LinkedIn as well. You can reach out to me ,  It will be my Pleasure to help you.</p>
 
@@ -71,14 +57,14 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript, Jq
 [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachakondaSivaSaiAbhishek&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/RachakondaSivaSaiAbhishek/github-readme-stats)
 </div>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RachakondaSivaSaiAbhishek&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="RachakondaSivaSaiAbhishek" /></td>
-  </tr>
-</table>
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RachakondaSivaSaiAbhishek&theme=dark" alt="RachakondaSivaSaiAbhishek" /></p>
   </div>
 
+   <table>
+  <tr>
+    <td style="align:center"><center><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RachakondaSivaSaiAbhishek&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="RachakondaSivaSaiAbhishek" /></center></td>
+  </tr>
+</table>
 
